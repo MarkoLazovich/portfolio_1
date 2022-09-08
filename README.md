@@ -4,7 +4,7 @@
 Marko Lazovic Portfolio
 Made by Marko
 
-Live preview: [https://marctistic.netlify.app//)
+Live preview: [https://portfolio-markodev.netlify.app/)
 
 Project Description
 Portfolio site is a landing page for your profile and professional promotion. Nice and minimalistic design and responsive landing page.
